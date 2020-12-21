@@ -13,9 +13,9 @@ Las versiones son a la fecha de entrega.
 * Santiago Taboada - Valuación de bonos y tasas de interés
 
 ### Grupos:
-Grupo 3: Juan David Aguilar; Renzo Sosa; Federico Gaspar Vega 
-Grupo 6: Rodrigo Javier Sanchez; Julio Roque Calcagnino; Julián Agustín Zubillaga 
-Grupo 8: Guillermo Britos; Matias Manero; Adrian Mariani   
+-vGrupo 3: Juan David Aguilar; Renzo Sosa; Federico Gaspar Vega 
+- Grupo 6: Rodrigo Javier Sanchez; Julio Roque Calcagnino; Julián Agustín Zubillaga 
+- Grupo 8: Guillermo Britos; Matias Manero; Adrian Mariani   
 
 
 ## Entregas Feb/Mar 2021
